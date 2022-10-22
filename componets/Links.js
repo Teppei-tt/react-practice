@@ -1,5 +1,4 @@
 import styles from "../styles/Home.module.css";
-import { Footer } from "../componets/Footer";
 
 export function Links() {
   return (
